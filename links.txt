@@ -1,0 +1,9 @@
+SANS 505
+https://www.youtube.com/watch?v=hDbqXWGifls
+https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution
+https://github.com/mxk/windows-secure-group-policy
+https://github.com/nsacyber/Windows-Secure-Host-Baseline
+https://github.com/nsacyber
+https://book.hacktricks.xyz/windows-hardening/basic-powershell-for-pentesters
+https://mitre-attack.github.io/attack-navigator/v2/enterprise/
+https://mitre-attack.github.io/attack-navigator/
